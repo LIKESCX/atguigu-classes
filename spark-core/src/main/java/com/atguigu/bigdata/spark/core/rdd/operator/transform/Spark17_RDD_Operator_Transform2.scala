@@ -10,7 +10,7 @@ object Spark17_RDD_Operator_Transform2 {
         val sparkConf = new SparkConf().setMaster("local[*]").setAppName("Operator")
         val sc = new SparkContext(sparkConf)
 
-        // TODO 算子 - (Key - Value类型) aggregateByKey
+        // TODO 算子 - (Key - Value类型) foldByKey
 
         val rdd: RDD[(String, Int)] = sc.makeRDD(List(
             ("a",1),("a",2),("a",3),("b",5),
