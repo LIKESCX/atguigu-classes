@@ -39,14 +39,88 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="Spark01_RDD_Part.scala" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/../atguigu-classes/spark-core/src/main/java/com/atguigu/bigdata/spark/core/rdd/part/Spark01_RDD_Part.scala">
+      <file leaf-file-name="Spark01_RDD_IO_Save.scala" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../atguigu-classes/spark-core/src/main/java/com/atguigu/bigdata/spark/core/rdd/io/Spark01_RDD_IO_Save.scala">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="342">
-              <caret line="21" column="30" lean-forward="false" selection-start-line="21" selection-start-column="30" selection-end-line="21" selection-end-column="30" />
+            <state relative-caret-position="323">
+              <caret line="17" column="46" lean-forward="false" selection-start-line="17" selection-start-column="46" selection-end-line="17" selection-end-column="46" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Spark01_RDD_IO_Load.scala" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../atguigu-classes/spark-core/src/main/java/com/atguigu/bigdata/spark/core/rdd/io/Spark01_RDD_IO_Load.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="228">
+              <caret line="16" column="15" lean-forward="false" selection-start-line="16" selection-start-column="15" selection-end-line="16" selection-end-column="15" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Spark01_Acc.scala" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../atguigu-classes/spark-core/src/main/java/com/atguigu/bigdata/spark/core/acc/Spark01_Acc.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="203">
+              <caret line="15" column="19" lean-forward="true" selection-start-line="15" selection-start-column="19" selection-end-line="15" selection-end-column="20" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Spark02_Acc.scala" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../atguigu-classes/spark-core/src/main/java/com/atguigu/bigdata/spark/core/acc/Spark02_Acc.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="357">
+              <caret line="25" column="13" lean-forward="false" selection-start-line="25" selection-start-column="13" selection-end-line="25" selection-end-column="13" />
               <folding>
-                <element signature="e#49#80#0" expanded="true" />
+                <element signature="e#44#88#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Spark03_Acc.scala" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../atguigu-classes/spark-core/src/main/java/com/atguigu/bigdata/spark/core/acc/Spark03_Acc.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="361">
+              <caret line="29" column="0" lean-forward="false" selection-start-line="29" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Spark04_Acc_WordCount.scala" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../atguigu-classes/spark-core/src/main/java/com/atguigu/bigdata/spark/core/acc/Spark04_Acc_WordCount.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="247">
+              <caret line="72" column="0" lean-forward="false" selection-start-line="72" selection-start-column="0" selection-end-line="73" selection-end-column="0" />
+              <folding>
+                <element signature="e#44#105#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Spark06_Bc.scala" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/../atguigu-classes/spark-core/src/main/java/com/atguigu/bigdata/spark/core/acc/Spark06_Bc.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="166">
+              <caret line="23" column="24" lean-forward="false" selection-start-line="23" selection-start-column="24" selection-end-line="23" selection-end-column="24" />
+              <folding>
+                <element signature="e#44#87#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AccumulatorV2.scala" pinned="false" current-in-tab="false">
+        <entry file="jar://$MAVEN_REPOSITORY$/org/apache/spark/spark-core_2.12/3.0.0/spark-core_2.12-3.0.0-sources.jar!/org/apache/spark/util/AccumulatorV2.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="144">
+              <caret line="293" column="43" lean-forward="false" selection-start-line="293" selection-start-column="30" selection-end-line="293" selection-end-column="43" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -79,6 +153,9 @@
       <find>comb</find>
       <find>countByKey</find>
       <find>reduce</find>
+      <find>Spark01_RDD_Serial$</find>
+      <find>rdd.saveAsObjectFile(path = &quot;output2&quot;)</find>
+      <find>saveAsObjectFile</find>
     </findStrings>
     <replaceStrings>
       <replace />
@@ -95,14 +172,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/../atguigu-classes/spark-core/src/main/java/com/atguigu/bigdata/spark/core/rdd/operator/transform/Spark03_RDD_Operator_Transform.scala" />
-        <option value="$PROJECT_DIR$/../atguigu-classes/spark-core/src/main/java/com/atguigu/bigdata/spark/core/rdd/operator/transform/Spark03_RDD_Operator_Transform1.scala" />
-        <option value="$PROJECT_DIR$/../atguigu-classes/spark-core/src/main/java/com/atguigu/bigdata/spark/core/wc/ScalaWC1.scala" />
-        <option value="$PROJECT_DIR$/../atguigu-classes/spark-core/src/main/java/com/atguigu/bigdata/spark/core/rdd/operator/transform/Spark04_RDD_Operator_Transform.scala" />
-        <option value="$PROJECT_DIR$/../atguigu-classes/spark-core/src/main/java/com/atguigu/bigdata/spark/core/rdd/operator/transform/Spark04_RDD_Operator_Transform1.scala" />
-        <option value="$PROJECT_DIR$/../atguigu-classes/spark-core/src/main/java/com/atguigu/bigdata/spark/core/rdd/operator/transform/Spark04_RDD_Operator_Transform2.scala" />
-        <option value="$PROJECT_DIR$/../atguigu-classes/spark-core/src/main/java/com/atguigu/bigdata/spark/core/rdd/operator/transform/Spark05_RDD_Operator_Transform.scala" />
-        <option value="$PROJECT_DIR$/../atguigu-classes/spark-core/src/main/java/com/atguigu/bigdata/spark/core/rdd/operator/transform/Spark05_RDD_Operator_Transform1.scala" />
         <option value="$PROJECT_DIR$/../atguigu-classes/spark-core/src/main/java/com/atguigu/bigdata/spark/core/rdd/operator/transform/Spark06_RDD_Operator_Transform.scala" />
         <option value="$PROJECT_DIR$/../atguigu-classes/spark-core/src/main/java/com/atguigu/bigdata/spark/core/rdd/operator/transform/Spark06_RDD_Operator_Transform1.scala" />
         <option value="$PROJECT_DIR$/../atguigu-classes/spark-core/src/main/java/com/atguigu/bigdata/spark/core/rdd/operator/transform/Spark06_RDD_Operator_Transform_Test.scala" />
@@ -146,6 +215,14 @@
         <option value="$PROJECT_DIR$/../atguigu-classes/spark-core/src/main/java/com/atguigu/bigdata/spark/core/rdd/persist/Spark06_RDD_Persist.scala" />
         <option value="$PROJECT_DIR$/../atguigu-classes/output/part-00002" />
         <option value="$PROJECT_DIR$/../atguigu-classes/spark-core/src/main/java/com/atguigu/bigdata/spark/core/rdd/part/Spark01_RDD_Part.scala" />
+        <option value="$PROJECT_DIR$/../atguigu-classes/spark-core/src/main/java/com/atguigu/bigdata/spark/core/rdd/io/Spark01_RDD_IO_Save.scala" />
+        <option value="$PROJECT_DIR$/../atguigu-classes/spark-core/src/main/java/com/atguigu/bigdata/spark/core/rdd/io/Spark01_RDD_IO_Load.scala" />
+        <option value="$PROJECT_DIR$/../atguigu-classes/spark-core/src/main/java/com/atguigu/bigdata/spark/core/acc/Spark01_Acc.scala" />
+        <option value="$PROJECT_DIR$/../atguigu-classes/spark-core/src/main/java/com/atguigu/bigdata/spark/core/acc/Spark02_Acc.scala" />
+        <option value="$PROJECT_DIR$/../atguigu-classes/spark-core/src/main/java/com/atguigu/bigdata/spark/core/acc/Spark03_Acc.scala" />
+        <option value="$PROJECT_DIR$/../atguigu-classes/spark-core/src/main/java/com/atguigu/bigdata/spark/core/acc/Spark04_Acc_WordCount.scala" />
+        <option value="$PROJECT_DIR$/../atguigu-classes/spark-core/src/main/java/com/atguigu/bigdata/spark/core/acc/scriptFile.scala" />
+        <option value="$PROJECT_DIR$/../atguigu-classes/spark-core/src/main/java/com/atguigu/bigdata/spark/core/acc/Spark06_Bc.scala" />
       </list>
     </option>
   </component>
@@ -185,8 +262,8 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-8" />
-    <option name="y" value="-8" />
+    <option name="x" value="-29" />
+    <option name="y" value="38" />
     <option name="width" value="1346" />
     <option name="height" value="685" />
   </component>
@@ -220,7 +297,111 @@
             <path>
               <item name="atguigu-classes" type="b2602c69:ProjectViewProjectNode" />
               <item name="atguigu-classes" type="462c0819:PsiDirectoryNode" />
-              <item name="output" type="462c0819:PsiDirectoryNode" />
+              <item name="spark-core" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="atguigu-classes" type="b2602c69:ProjectViewProjectNode" />
+              <item name="atguigu-classes" type="462c0819:PsiDirectoryNode" />
+              <item name="spark-core" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="atguigu-classes" type="b2602c69:ProjectViewProjectNode" />
+              <item name="atguigu-classes" type="462c0819:PsiDirectoryNode" />
+              <item name="spark-core" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="atguigu-classes" type="b2602c69:ProjectViewProjectNode" />
+              <item name="atguigu-classes" type="462c0819:PsiDirectoryNode" />
+              <item name="spark-core" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="atguigu-classes" type="b2602c69:ProjectViewProjectNode" />
+              <item name="atguigu-classes" type="462c0819:PsiDirectoryNode" />
+              <item name="spark-core" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="atguigu-classes" type="b2602c69:ProjectViewProjectNode" />
+              <item name="atguigu-classes" type="462c0819:PsiDirectoryNode" />
+              <item name="spark-core" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="atguigu" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="atguigu-classes" type="b2602c69:ProjectViewProjectNode" />
+              <item name="atguigu-classes" type="462c0819:PsiDirectoryNode" />
+              <item name="spark-core" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="atguigu" type="462c0819:PsiDirectoryNode" />
+              <item name="bigdata" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="atguigu-classes" type="b2602c69:ProjectViewProjectNode" />
+              <item name="atguigu-classes" type="462c0819:PsiDirectoryNode" />
+              <item name="spark-core" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="atguigu" type="462c0819:PsiDirectoryNode" />
+              <item name="bigdata" type="462c0819:PsiDirectoryNode" />
+              <item name="spark" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="atguigu-classes" type="b2602c69:ProjectViewProjectNode" />
+              <item name="atguigu-classes" type="462c0819:PsiDirectoryNode" />
+              <item name="spark-core" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="atguigu" type="462c0819:PsiDirectoryNode" />
+              <item name="bigdata" type="462c0819:PsiDirectoryNode" />
+              <item name="spark" type="462c0819:PsiDirectoryNode" />
+              <item name="core" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="atguigu-classes" type="b2602c69:ProjectViewProjectNode" />
+              <item name="atguigu-classes" type="462c0819:PsiDirectoryNode" />
+              <item name="spark-core" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="atguigu" type="462c0819:PsiDirectoryNode" />
+              <item name="bigdata" type="462c0819:PsiDirectoryNode" />
+              <item name="spark" type="462c0819:PsiDirectoryNode" />
+              <item name="core" type="462c0819:PsiDirectoryNode" />
+              <item name="acc" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="atguigu-classes" type="b2602c69:ProjectViewProjectNode" />
+              <item name="atguigu-classes" type="462c0819:PsiDirectoryNode" />
+              <item name="spark-core" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="atguigu" type="462c0819:PsiDirectoryNode" />
+              <item name="bigdata" type="462c0819:PsiDirectoryNode" />
+              <item name="spark" type="462c0819:PsiDirectoryNode" />
+              <item name="core" type="462c0819:PsiDirectoryNode" />
+              <item name="wc" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -242,11 +423,11 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.atguigu.bigdata.spark.core.acc" />
+      <recent name="com.atguigu.bigdata.spark.core.rdd.io" />
       <recent name="com.atguigu.bigdata.spark.core.rdd.persist" />
       <recent name="com.atguigu.bigdata.spark.core.rdd.operator.action" />
       <recent name="com.atguigu.bigdata.spark.core.wc" />
-      <recent name="com.atguigu.bigdata.spark.core.rdd.operator.transform" />
-      <recent name="com.atguigu.bigdata.spark.core.rdd.builder" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="F:\atguigu-classes\datas" />
@@ -264,15 +445,15 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Spark01_RDD_Part">
-    <configuration name="Spark01_RDD_Part" type="Application" factoryName="Application" temporary="true">
+  <component name="RunManager" selected="Application.Spark06_Bc">
+    <configuration name="Spark01_Acc" type="Application" factoryName="Application" temporary="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="com.atguigu.bigdata.spark.core.rdd.part.*" />
+          <option name="PATTERN" value="com.atguigu.bigdata.spark.core.acc.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="com.atguigu.bigdata.spark.core.rdd.part.Spark01_RDD_Part" />
+      <option name="MAIN_CLASS_NAME" value="com.atguigu.bigdata.spark.core.acc.Spark01_Acc" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../atguigu-classes" />
@@ -284,14 +465,14 @@
       <module name="spark-core" />
       <envs />
     </configuration>
-    <configuration name="Spark03_RDD_Persist" type="Application" factoryName="Application" temporary="true">
+    <configuration name="Spark02_Acc" type="Application" factoryName="Application" temporary="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="com.atguigu.bigdata.spark.core.rdd.persist.*" />
+          <option name="PATTERN" value="com.atguigu.bigdata.spark.core.acc.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="com.atguigu.bigdata.spark.core.rdd.persist.Spark03_RDD_Persist" />
+      <option name="MAIN_CLASS_NAME" value="com.atguigu.bigdata.spark.core.acc.Spark02_Acc" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../atguigu-classes" />
@@ -303,14 +484,14 @@
       <module name="spark-core" />
       <envs />
     </configuration>
-    <configuration name="Spark04_RDD_Persist$" type="Application" factoryName="Application" temporary="true">
+    <configuration name="Spark03_Acc" type="Application" factoryName="Application" temporary="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="com.atguigu.bigdata.spark.core.rdd.persist.*" />
+          <option name="PATTERN" value="com.atguigu.bigdata.spark.core.acc.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="com.atguigu.bigdata.spark.core.rdd.persist.Spark04_RDD_Persist$" />
+      <option name="MAIN_CLASS_NAME" value="com.atguigu.bigdata.spark.core.acc.Spark03_Acc" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../atguigu-classes" />
@@ -322,14 +503,14 @@
       <module name="spark-core" />
       <envs />
     </configuration>
-    <configuration name="Spark04_RDD_Persist" type="Application" factoryName="Application" temporary="true">
+    <configuration name="Spark04_Acc_WordCount" type="Application" factoryName="Application" temporary="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="com.atguigu.bigdata.spark.core.rdd.persist.*" />
+          <option name="PATTERN" value="com.atguigu.bigdata.spark.core.acc.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="com.atguigu.bigdata.spark.core.rdd.persist.Spark04_RDD_Persist" />
+      <option name="MAIN_CLASS_NAME" value="com.atguigu.bigdata.spark.core.acc.Spark04_Acc_WordCount" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../atguigu-classes" />
@@ -341,14 +522,14 @@
       <module name="spark-core" />
       <envs />
     </configuration>
-    <configuration name="Spark06_RDD_Persist" type="Application" factoryName="Application" temporary="true">
+    <configuration name="Spark06_Bc" type="Application" factoryName="Application" temporary="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="com.atguigu.bigdata.spark.core.rdd.persist.*" />
+          <option name="PATTERN" value="com.atguigu.bigdata.spark.core.acc.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="com.atguigu.bigdata.spark.core.rdd.persist.Spark06_RDD_Persist" />
+      <option name="MAIN_CLASS_NAME" value="com.atguigu.bigdata.spark.core.acc.Spark06_Bc" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../atguigu-classes" />
@@ -449,19 +630,19 @@
       </method>
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Application.Spark03_RDD_Persist" />
-      <item index="1" class="java.lang.String" itemvalue="Application.Spark04_RDD_Persist$" />
-      <item index="2" class="java.lang.String" itemvalue="Application.Spark04_RDD_Persist" />
-      <item index="3" class="java.lang.String" itemvalue="Application.Spark06_RDD_Persist" />
-      <item index="4" class="java.lang.String" itemvalue="Application.Spark01_RDD_Part" />
+      <item index="0" class="java.lang.String" itemvalue="Application.Spark01_Acc" />
+      <item index="1" class="java.lang.String" itemvalue="Application.Spark02_Acc" />
+      <item index="2" class="java.lang.String" itemvalue="Application.Spark03_Acc" />
+      <item index="3" class="java.lang.String" itemvalue="Application.Spark04_Acc_WordCount" />
+      <item index="4" class="java.lang.String" itemvalue="Application.Spark06_Bc" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.Spark01_RDD_Part" />
-        <item index="1" class="java.lang.String" itemvalue="Application.Spark06_RDD_Persist" />
-        <item index="2" class="java.lang.String" itemvalue="Application.Spark04_RDD_Persist" />
-        <item index="3" class="java.lang.String" itemvalue="Application.Spark04_RDD_Persist$" />
-        <item index="4" class="java.lang.String" itemvalue="Application.Spark03_RDD_Persist" />
+        <item index="0" class="java.lang.String" itemvalue="Application.Spark06_Bc" />
+        <item index="1" class="java.lang.String" itemvalue="Application.Spark04_Acc_WordCount" />
+        <item index="2" class="java.lang.String" itemvalue="Application.Spark03_Acc" />
+        <item index="3" class="java.lang.String" itemvalue="Application.Spark02_Acc" />
+        <item index="4" class="java.lang.String" itemvalue="Application.Spark01_Acc" />
       </list>
     </recent_temporary>
   </component>
@@ -500,12 +681,12 @@
       <workItem from="1609851239009" duration="3340000" />
       <workItem from="1610020586735" duration="10458000" />
       <workItem from="1610111185980" duration="1845000" />
-      <workItem from="1610182544491" duration="8494000" />
+      <workItem from="1610182544491" duration="18928000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="142713000" />
+    <option name="totallyTimeSpent" value="153147000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -521,34 +702,34 @@
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32930514" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32930514" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32930514" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.41830066" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32843137" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.40359476" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32843137" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32930514" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21895425" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.29411766" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32843137" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32843137" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.35800603" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.35649547" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Bean Validation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32930514" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.34313726" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.41830066" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32930514" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.34313726" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
     <layout-to-restore>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -610,52 +791,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/../atguigu-classes/spark-core/src/main/java/com/atguigu/bigdata/spark/core/rdd/operator/transform/Spark16_RDD_Operator_Transform.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="156">
-          <caret line="21" column="67" lean-forward="false" selection-start-line="21" selection-start-column="57" selection-end-line="21" selection-end-column="67" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../atguigu-classes/spark-core/src/main/java/com/atguigu/bigdata/spark/core/rdd/operator/transform/Spark12_RDD_Operator_Transform1.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="185">
-          <caret line="12" column="21" lean-forward="false" selection-start-line="12" selection-start-column="21" selection-end-line="12" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../atguigu-classes/spark-core/src/main/java/com/atguigu/bigdata/spark/core/rdd/operator/transform/Spark15_RDD_Operator_Transform.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="279">
-          <caret line="24" column="59" lean-forward="false" selection-start-line="24" selection-start-column="48" selection-end-line="24" selection-end-column="59" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://D:/sofeware_install/scala-source-2.12.11/src/library/scala/collection/SeqLike.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="129">
-          <caret line="633" column="6" lean-forward="false" selection-start-line="633" selection-start-column="6" selection-end-line="633" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../atguigu-classes/output3/part-00000" />
-    <entry file="file://$PROJECT_DIR$/../atguigu-classes/output3/part-00001" />
-    <entry file="file://$PROJECT_DIR$/../atguigu-classes/output6/part-00001" />
-    <entry file="file://$PROJECT_DIR$/../atguigu-classes/output6/part-00000" />
-    <entry file="file://$PROJECT_DIR$/../atguigu-classes/spark-core/src/main/java/com/atguigu/bigdata/spark/core/rdd/operator/transform/Spark24_RDD_Operator_Seq.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="57" column="43" lean-forward="false" selection-start-line="57" selection-start-column="43" selection-end-line="57" selection-end-column="43" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../atguigu-classes/spark-core/src/main/java/com/atguigu/bigdata/spark/core/rdd/operator/transform/Spark17_RDD_Operator_Transform2.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="328">
-          <caret line="22" column="0" lean-forward="false" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/../atguigu-classes/spark-core/src/main/java/com/atguigu/bigdata/spark/core/rdd/operator/transform/Spark21_RDD_Operator_Transform.scala">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="342">
@@ -755,13 +890,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/spark/spark-core_2.12/3.0.0/spark-core_2.12-3.0.0-sources.jar!/org/apache/spark/rdd/PairRDDFunctions.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="200">
-          <caret line="609" column="25" lean-forward="true" selection-start-line="609" selection-start-column="25" selection-end-line="609" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/../atguigu-classes/spark-core/src/main/java/com/atguigu/bigdata/spark/core/rdd/operator/action/Spark04_RDD_Operator_Action.scala">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="328">
@@ -804,17 +932,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../atguigu-classes/output/part-00001">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/../atguigu-classes/spark-core/src/main/java/com/atguigu/bigdata/spark/core/rdd/operator/action/Spark05_RDD_Operator_Action.scala">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="152">
           <caret line="8" column="30" lean-forward="false" selection-start-line="8" selection-start-column="30" selection-end-line="8" selection-end-column="30" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -858,14 +980,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://D:/sofeware_install/scala-source-2.12.11/src/library/scala/Option.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="117">
-          <caret line="512" column="17" lean-forward="false" selection-start-line="512" selection-start-column="17" selection-end-line="512" selection-end-column="17" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/../atguigu-classes/cp/969623d3-1195-41f7-85b5-b8ce7d44f3cd/rdd-2/part-00000">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -889,16 +1003,8 @@
         <state relative-caret-position="228">
           <caret line="12" column="92" lean-forward="false" selection-start-line="12" selection-start-column="48" selection-end-line="12" selection-end-column="92" />
           <folding>
-            <element signature="e#51#82#0" expanded="true" />
+            <element signature="e#51#82#0" expanded="false" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/spark/spark-core_2.12/3.0.0/spark-core_2.12-3.0.0-sources.jar!/org/apache/spark/rdd/RDD.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-4956">
-          <caret line="1590" column="26" lean-forward="false" selection-start-line="1590" selection-start-column="26" selection-end-line="1590" selection-end-column="26" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -926,15 +1032,15 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../atguigu-classes/spark-core/src/main/java/com/atguigu/bigdata/spark/core/wc/Spark02_WordCount.scala">
+    <entry file="file://$PROJECT_DIR$/../atguigu-classes/output/part-00000">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="12" column="6" lean-forward="false" selection-start-line="12" selection-start-column="6" selection-end-line="13" selection-end-column="42" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../atguigu-classes/output/part-00000">
+    <entry file="file://$PROJECT_DIR$/../atguigu-classes/output/part-00001">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -950,12 +1056,130 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://D:/sofeware_install/scala-source-2.12.11/src/library/scala/Option.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="512" column="17" lean-forward="false" selection-start-line="512" selection-start-column="17" selection-end-line="512" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/spark/spark-core_2.12/3.0.0/spark-core_2.12-3.0.0-sources.jar!/org/apache/spark/rdd/PairRDDFunctions.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="181">
+          <caret line="528" column="30" lean-forward="false" selection-start-line="528" selection-start-column="30" selection-end-line="528" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/../atguigu-classes/spark-core/src/main/java/com/atguigu/bigdata/spark/core/rdd/part/Spark01_RDD_Part.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="342">
-          <caret line="21" column="30" lean-forward="false" selection-start-line="21" selection-start-column="30" selection-end-line="21" selection-end-column="30" />
+        <state relative-caret-position="209">
+          <caret line="20" column="97" lean-forward="false" selection-start-line="20" selection-start-column="97" selection-end-line="20" selection-end-column="97" />
           <folding>
-            <element signature="e#49#80#0" expanded="true" />
+            <element signature="e#49#80#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../atguigu-classes/spark-core/src/main/java/com/atguigu/bigdata/spark/core/rdd/io/Spark01_RDD_IO_Save.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="17" column="46" lean-forward="false" selection-start-line="17" selection-start-column="46" selection-end-line="17" selection-end-column="46" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/spark/spark-core_2.12/3.0.0/spark-core_2.12-3.0.0-sources.jar!/org/apache/spark/rdd/RDD.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="1002" column="6" lean-forward="false" selection-start-line="1002" selection-start-column="6" selection-end-line="1002" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../atguigu-classes/spark-core/src/main/java/com/atguigu/bigdata/spark/core/rdd/io/Spark01_RDD_IO_Load.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="16" column="15" lean-forward="false" selection-start-line="16" selection-start-column="15" selection-end-line="16" selection-end-column="15" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../atguigu-classes/spark-core/src/main/java/com/atguigu/bigdata/spark/core/wc/Spark02_WordCount.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="12" column="6" lean-forward="false" selection-start-line="12" selection-start-column="6" selection-end-line="13" selection-end-column="42" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../atguigu-classes/spark-core/src/main/java/com/atguigu/bigdata/spark/core/acc/Spark01_Acc.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="203">
+          <caret line="15" column="19" lean-forward="true" selection-start-line="15" selection-start-column="19" selection-end-line="15" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../atguigu-classes/spark-core/src/main/java/com/atguigu/bigdata/spark/core/acc/Spark02_Acc.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="25" column="13" lean-forward="false" selection-start-line="25" selection-start-column="13" selection-end-line="25" selection-end-column="13" />
+          <folding>
+            <element signature="e#44#88#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../atguigu-classes/spark-core/src/main/java/com/atguigu/bigdata/spark/core/acc/Spark03_Acc.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="361">
+          <caret line="29" column="0" lean-forward="false" selection-start-line="29" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/spark/spark-core_2.12/3.0.0/spark-core_2.12-3.0.0-sources.jar!/org/apache/spark/util/AccumulatorV2.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="293" column="43" lean-forward="false" selection-start-line="293" selection-start-column="30" selection-end-line="293" selection-end-column="43" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../atguigu-classes/spark-core/src/main/java/com/atguigu/bigdata/spark/core/acc/scriptFile.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../atguigu-classes/spark-core/src/main/java/com/atguigu/bigdata/spark/core/acc/Spark04_Acc_WordCount.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="72" column="0" lean-forward="false" selection-start-line="72" selection-start-column="0" selection-end-line="73" selection-end-column="0" />
+          <folding>
+            <element signature="e#44#105#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/spark/spark-core_2.12/3.0.0/spark-core_2.12-3.0.0-sources.jar!/org/apache/spark/SparkContext.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="134">
+          <caret line="1469" column="6" lean-forward="false" selection-start-line="1469" selection-start-column="6" selection-end-line="1469" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../atguigu-classes/spark-core/src/main/java/com/atguigu/bigdata/spark/core/acc/Spark06_Bc.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="166">
+          <caret line="23" column="24" lean-forward="false" selection-start-line="23" selection-start-column="24" selection-end-line="23" selection-end-column="24" />
+          <folding>
+            <element signature="e#44#87#0" expanded="true" />
           </folding>
         </state>
       </provider>

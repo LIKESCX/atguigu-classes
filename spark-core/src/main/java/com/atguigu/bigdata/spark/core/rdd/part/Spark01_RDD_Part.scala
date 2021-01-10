@@ -18,21 +18,23 @@ object Spark01_RDD_Part {
             ))
 
 
-        val newRDD: RDD[(String, String)] = rdd.partitionBy(new MyPartitioner)
-        newRDD.saveAsTextFile(path = "output")
+        val partRDD: RDD[(String, String)] = rdd.partitionBy(new MyPartitioner)//使用自定义的分区器对数据进行分区
+        partRDD.saveAsTextFile(path = "output")
         sc.stop()
     }
 
     /**
-      *
-      *
+      *自定义分区器
+      *1. 继承Partitioner
+      *2. 重写方法
       *
       *
      */
     class MyPartitioner extends  Partitioner{
-
+        //分区数量
         override def numPartitions: Int = 3
 
+        //根据数据的key值返回数据所在的分区索引（从0开始）
         override def getPartition(key: Any): Int = {
             key match {
                 case "nba" ⇒ 0
