@@ -27,6 +27,9 @@ object Spark13_RDD_Operator_Transform {
         //并集
         //(1,2,3,4,3,4,5,6)
         val rdd4: RDD[Int] = rdd1.union(rdd2)
+        rdd1.saveAsTextFile("rdd1")
+        rdd2.saveAsTextFile("rdd2")
+        rdd4.saveAsTextFile("rdd4")
         println(rdd4.collect().mkString(","))
 
         //差集
